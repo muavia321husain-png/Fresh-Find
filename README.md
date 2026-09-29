@@ -1,9 +1,6 @@
 # 🍎🥦 Fresh Find
 
 **Fresh Find** is a responsive frontend website for browsing and ordering fresh fruits and vegetables. It was built by **Team Digital Titans** for the **TechWiz Global** event at Aptech.
-
-> ⚠️ This repository contains the **frontend only**. There is no backend or database integration.
-
 ---
 
 ## 📖 About the Project
