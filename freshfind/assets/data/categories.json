@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Leafy Greens",
+    "count": 2,
+    "image": "assets/images/leafygreen.avif"
+  },
+  {
+    "name": "Root Vegetables",
+    "count": 3,
+    "image": "assets/images/rootvegetables.avif"
+  },
+  {
+    "name": "Nightshades",
+    "count": 2,
+    "image": "assets/data/categories.json"
+  },
+  {
+    "name": "Fruits",
+    "count": 6,
+    "image": "assets/images/fruits123.avif"
+  }
+]

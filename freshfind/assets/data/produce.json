@@ -1,0 +1,182 @@
+[
+  {
+    "id": "p1",
+    "name": "Spinach",
+    "category": "Leafy Greens",
+    "seasons": ["Autumn", "Winter", "Monsoon"],
+    "price": "Rs. 160 / kg",
+    "image": "assets/images/spinach.avif",
+    "benefit": "Iron-rich leafy green",
+    "tip": "Choose crisp, deep-green leaves with no yellow edges."
+  },
+  {
+    "id": "p2",
+    "name": "Carrot",
+    "category": "Root Vegetables",
+    "seasons": ["Autumn", "Winter"],
+    "price": "Rs. 180 / kg",
+    "image": "assets/images/carrots.avif",
+    "benefit": "Crunchy and naturally sweet",
+    "tip": "Look for firm roots with smooth skin and fresh tops."
+  },
+  {
+    "id": "p3",
+    "name": "Tomato",
+    "category": "Nightshades",
+    "seasons": ["Spring", "Summer", "Monsoon", "All Year"],
+    "price": "Rs. 220 / kg",
+    "image": "assets/images/tomatoes.jpg",
+    "benefit": "Juicy and versatile",
+    "tip": "Pick bright, firm tomatoes with a fresh aroma."
+  },
+  {
+    "id": "p4",
+    "name": "Broccoli",
+    "category": "Cruciferous",
+    "seasons": ["Winter"],
+    "price": "Rs. 300 / kg",
+    "image": "assets/images/broccoli.webp",
+    "benefit": "Compact flowering vegetable",
+    "tip": "Tight green florets usually indicate freshness."
+  },
+  {
+    "id": "p5",
+    "name": "Cucumber",
+    "category": "Fruit Vegetables",
+    "seasons": ["Spring", "Summer", "Monsoon"],
+    "price": "Rs. 140 / kg",
+    "image": "assets/images/cucumber.avif",
+    "benefit": "Cool and hydrating",
+    "tip": "Choose firm cucumbers without soft spots."
+  },
+  {
+    "id": "p6",
+    "name": "Bell Pepper",
+    "category": "Nightshades",
+    "seasons": ["Spring", "Summer"],
+    "price": "Rs. 360 / kg",
+    "image": "assets/images/bell pepper.avif",
+    "benefit": "Crisp and colorful",
+    "tip": "Select glossy peppers that feel heavy for their size."
+  },
+  {
+    "id": "p7",
+    "name": "Potato",
+    "category": "Root Vegetables",
+    "seasons": ["All Year"],
+    "price": "Rs. 130 / kg",
+    "image": "assets/images/potatoes.avif",
+    "benefit": "Kitchen staple",
+    "tip": "Avoid green skin, sprouts and deep soft spots."
+  },
+  {
+    "id": "p8",
+    "name": "Okra",
+    "category": "Pods",
+    "seasons": ["Spring", "Summer", "Monsoon"],
+    "price": "Rs. 240 / kg",
+    "image": "assets/images/okra.avif",
+    "benefit": "Tender pod vegetable",
+    "tip": "Small, bright pods are generally more tender."
+  },
+  {
+    "id": "p9",
+    "name": "Cauliflower",
+    "category": "Cruciferous",
+    "seasons": ["Autumn", "Winter"],
+    "price": "Rs. 250 / kg",
+    "image": "assets/images/cauliflour.avif",
+    "benefit": "Mild and versatile",
+    "tip": "Look for compact white curds and fresh green leaves."
+  },
+  {
+    "id": "p10",
+    "name": "Peas",
+    "category": "Pods",
+    "seasons": ["Autumn", "Winter"],
+    "price": "Rs. 280 / kg",
+    "image": "assets/images/peas.avif",
+    "benefit": "Sweet seasonal pods",
+    "tip": "Fresh pods should look plump and bright."
+  },
+  {
+    "id": "p11",
+    "name": "Radish",
+    "category": "Root Vegetables",
+    "seasons": ["Winter", "Spring", "Autumn"],
+    "price": "Rs. 190 / kg",
+    "image": "assets/images/radish.avif",
+    "benefit": "Crisp and peppery",
+    "tip": "Choose firm roots with bright color and fresh green tops."
+  },
+  {
+    "id": "p12",
+    "name": "Lettuce",
+    "category": "Leafy Greens",
+    "seasons": ["Winter", "Spring", "Summer", "Monsoon", "Autumn"],
+    "price": "Rs. 220 / kg",
+    "image": "assets/images/lettuce.avif",
+    "benefit": "Fresh and crunchy",
+    "tip": "Look for crisp leaves without browning or wilting."
+  },
+  {
+    "id": "p13",
+    "name": "Mango",
+    "category": "Fruits",
+    "seasons": ["Summer"],
+    "price": "Rs. 260 / kg",
+    "image": "assets/images/mango.avif",
+    "benefit": "Sweet seasonal fruit",
+    "tip": "Choose fruit with a pleasant aroma and natural color."
+  },
+  {
+    "id": "p14",
+    "name": "Orange",
+    "category": "Fruits",
+    "seasons": ["Winter", "Spring"],
+    "price": "Rs. 240 / kg",
+    "image": "freshfind/assets/images/orange.1.jpg",
+    "benefit": "Juicy citrus fruit",
+    "tip": "Pick oranges that feel heavy for their size."
+  },
+  {
+    "id": "p15",
+    "name": "Banana",
+    "category": "Fruits",
+    "seasons": ["All Year"],
+    "price": "Rs. 180 / dozen",
+    "image": "assets/images/banana.webp",
+    "benefit": "Naturally sweet and filling",
+    "tip": "Choose bunches with firm stems and even yellowing."
+  },
+  {
+    "id": "p16",
+    "name": "Pomegranate",
+    "category": "Fruits",
+    "seasons": ["Autumn", "Winter"],
+    "price": "Rs. 420 / kg",
+    "image": "assets/images/pomegranate.webp",
+    "benefit": "Bright, juicy arils",
+    "tip": "Look for firm, heavy fruit with a rich outer color."
+  },
+  {
+    "id": "p17",
+    "name": "Papaya",
+    "category": "Fruits",
+    "seasons": ["Summer", "Monsoon", "Autumn"],
+    "price": "Rs. 220 / kg",
+    "image": "assets/images/papaya.webp",
+    "benefit": "Soft tropical fruit",
+    "tip": "Select fruit with a gentle aroma and slight give."
+  },
+  {
+    "id": "p18",
+    "name": "Guava",
+    "category": "Fruits",
+    "seasons": ["Autumn", "Winter"],
+    "price": "Rs. 260 / kg",
+    "image": "assets/images/Guava.jpg",
+    "benefit": "Fragrant and crisp",
+    "tip": "Choose fragrant guavas with smooth, unbroken skin."
+  }
+]

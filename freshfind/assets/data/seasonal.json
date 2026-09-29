@@ -1,0 +1,47 @@
+[
+  {
+    "id": "s1",
+    "season": "Winter",
+    "months": "November - February",
+    "color": "cool",
+    "icon": "❄",
+    "items": ["Spinach", "Carrot", "Broccoli", "Cauliflower", "Peas", "Radish", "Lettuce", "Orange", "Pomegranate"],
+    "note": "Cool weather brings leafy greens, roots, citrus and other winter-friendly market produce."
+  },
+  {
+    "id": "s2",
+    "season": "Spring",
+    "months": "March - April",
+    "color": "fresh",
+    "icon": "🌱",
+    "items": ["Cucumber", "Tomato", "Okra", "Bell Pepper", "Spinach", "Radish", "Lettuce", "Orange"],
+    "note": "Spring markets start filling with crisp vegetables and fresh early-season produce."
+  },
+  {
+    "id": "s3",
+    "season": "Summer",
+    "months": "May - August",
+    "color": "sun",
+    "icon": "☀",
+    "items": ["Cucumber", "Okra", "Tomato", "Bell Pepper", "Lettuce", "Mango", "Papaya"],
+    "note": "Warm-weather markets bring juicy fruit alongside crisp vegetables for everyday meals."
+  },
+  {
+    "id": "s4",
+    "season": "Monsoon",
+    "months": "July - September",
+    "color": "rain",
+    "icon": "☂",
+    "items": ["Okra", "Tomato", "Spinach", "Cucumber", "Bell Pepper", "Lettuce", "Papaya"],
+    "note": "Inspect produce carefully and prefer clean, firm-looking vegetables and fruit."
+  },
+  {
+    "id": "s5",
+    "season": "Autumn",
+    "months": "October - November",
+    "color": "gold",
+    "icon": "🍂",
+    "items": ["Carrot", "Cauliflower", "Peas", "Spinach", "Broccoli", "Radish", "Lettuce", "Pomegranate", "Guava"],
+    "note": "Cooler weather returns with roots, greens, pomegranates and other seasonal favourites."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Hi / Salaam",
+    "keywords": ["hi", "hello", "salam", "assalam", "hey", "hola"],
+    "answer": "Assalamualaikum — welcome to FreshFind. How can I help you?"
+  },
+  {
+    "question": "Which days are the markets open?",
+    "keywords": ["days", "open", "hours", "schedule", "when", "timing", "time"],
+    "answer": "Each market has its own days — most run 3 days a week, some daily. Use the Day filter on the Markets page to see which ones are open on a specific day."
+  },
+  {
+    "question": "How do I sign in or join?",
+    "keywords": ["sign", "login", "join", "account", "signup", "register"],
+    "answer": "The Sign in and Join options open a simple layout page — there is no live account system connected behind them yet."
+  },
+  {
+    "question": "Which markets are on FreshFind?",
+    "keywords": ["markets", "which market", "list", "gulshan", "clifton", "pechs", "dha", "malir", "nazimabad", "where"],
+    "answer": "FreshFind currently lists markets in Gulshan, Clifton, PECHS, DHA, Malir and North Nazimabad. Open the Markets page to see all of them with ratings, hours and produce."
+  },
+  {
+    "question": "Ok thanks / bye",
+    "keywords": ["thanks", "thank", "bye", "bey", "allah hafiz", "ok thanks"],
+    "answer": "Allah Hafiz! Hope you have a great day on our website."
+  }
+]
